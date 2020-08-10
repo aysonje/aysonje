@@ -1,7 +1,7 @@
 ### Hi there, I'm JE! 👋
 
 
-[![JE's github stats](https://github-readme-stats.vercel.app/api?username=aysonje&hide=contribs,stars&count_private=true)](https://github.com/anuraghazra/github-readme-st)
+[![JE's github stats](https://github-readme-stats.vercel.app/api?username=aysonje&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-st)
 
 
 <!--
