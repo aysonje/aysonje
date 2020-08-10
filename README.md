@@ -1,8 +1,9 @@
 ### Hi there, I'm JE! 👋
 
 
-[![JE's github stats](https://github-readme-stats.vercel.app/api?username=aysonje&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-st)
+[![JE's github stats](https://github-readme-stats.vercel.app/api?username=aysonje&hide=contribs,stars&show_icons=true)](https://github.com/anuraghazra/github-readme-st)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysonje&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aysonje/aysonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
